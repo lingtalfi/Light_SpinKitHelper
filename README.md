@@ -24,7 +24,7 @@ Or just download it and place it where you want otherwise.
 
 
 
-
+![screenshot of spinkit helper](https://lingtalfi.com/img/universe/Light_SpinKitHelper/spinkit-helper.png)
 
 
 Summary
@@ -32,6 +32,7 @@ Summary
 - [Light_SpinKitHelper api](https://github.com/lingtalfi/Light_SpinKitHelper/blob/master/doc/api/Ling/Light_SpinKitHelper.md) (generated with [DocTools](https://github.com/lingtalfi/DocTools))
 - [Services](#services)
 - [How to use](#how-to-use)
+- [Credits](#credits)
 
 
 
@@ -123,10 +124,22 @@ The call to the **render** method accepts two optional arguments:
 - color: a css color (defaults is black)
 
 
+
+The overlay is white by default.
+To change it to black, add the **sk-black** css class to the container element (i.e. the one with the sk-loading class).
+
+
 Removing the sk-loading class
 --------
 
 Now whenever you want, remove the overlay by removing the **sk-loading** css class from the card-body element (in the above example).
+
+
+
+Credits
+========
+
+Spinkit js library is here: https://tobiasahlin.com/spinkit/
 
 
 
@@ -135,6 +148,10 @@ Now whenever you want, remove the overlay by removing the **sk-loading** css cla
 History Log
 =============
 
+- 1.0.1 -- 2019-08-30
+
+    - updated doc
+    
 - 1.0.0 -- 2019-08-29
 
     - initial commit
