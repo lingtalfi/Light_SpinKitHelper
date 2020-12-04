@@ -148,6 +148,10 @@ Spinkit js library is here: https://tobiasahlin.com/spinkit/
 History Log
 =============
 
+- 1.0.2 -- 2020-12-04
+
+    - Add lpi-deps.byml file
+
 - 1.0.1 -- 2019-08-30
 
     - updated doc
