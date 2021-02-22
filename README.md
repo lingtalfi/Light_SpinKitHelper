@@ -148,6 +148,10 @@ Spinkit js library is here: https://tobiasahlin.com/spinkit/
 History Log
 =============
 
+- 1.0.5 -- 2021-02-22
+
+    - clean assets/map dir
+  
 - 1.0.4 -- 2021-02-22
 
     - adapt to new light universe assets organization
