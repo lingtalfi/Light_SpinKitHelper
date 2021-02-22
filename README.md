@@ -1,6 +1,6 @@
 Light_SpinKitHelper
 ===========
-2019-08-29
+2019-08-29 -> 2021-02-22
 
 
 
@@ -148,9 +148,13 @@ Spinkit js library is here: https://tobiasahlin.com/spinkit/
 History Log
 =============
 
+- 1.0.4 -- 2021-02-22
+
+    - adapt to new light universe assets organization
+  
 - 1.0.3 -- 2020-12-08
 
-    - Fix lpi-deps not using natsort.
+    - Fix lpi-deps not using natsort
 
 - 1.0.2 -- 2020-12-04
 
